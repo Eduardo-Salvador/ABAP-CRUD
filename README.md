@@ -39,7 +39,7 @@ Version Control with abapGit**
 
 All topics are organized into modular classes, each covering a specific concept.
 
-> For the complete syntax reference and language guide, see [GUIDE.md](./GUIDE.md)
+> For the complete syntax reference and language guide, see [GUIDE.md](https://github.com/Eduardo-Salvador/ABAP-CRUD/blob/main/Guide.md))
 
 </div>
 
@@ -63,7 +63,7 @@ Versionamento com abapGit**
 
 Os tópicos estão organizados em classes modulares, cada uma cobrindo um conceito específico.
 
-> Para a referência completa de sintaxe e guia da linguagem, veja [GUIDE.md](./GUIDE.md)
+> Para a referência completa de sintaxe e guia da linguagem, veja [GUIDE.md](https://github.com/Eduardo-Salvador/ABAP-CRUD/blob/main/Guide.md))
 
 </div>
 
