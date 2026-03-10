@@ -6,7 +6,7 @@ ENDCLASS.
 
 CLASS zcl_crud_main IMPLEMENTATION.
     METHOD if_oo_adt_classrun~main.
-        DATA(lo_crud) = NEW zcl_crud_cliente( ).
+        DATA(lo_crud) = NEW zcl_clientes_dao( ).
 
       lo_crud->inserir_cliente( iv_id = '00000001' iv_nome = 'Eduardo'  iv_email = 'eduardo@email.com' ).
       lo_crud->inserir_cliente( iv_id = '00000002' iv_nome = 'João'     iv_email = 'joao@email.com' ).
