@@ -44,7 +44,7 @@ Referência completa de sintaxe para desenvolvimento em ABAP Cloud.
 
 **ABAP Cloud** is the modern, restricted version running on SAP BTP. It enforces clean architecture rules and blocks legacy syntax.
 
-**Z objects:** Any custom development must start with `Z` (or `Y`) — mandatory SAP namespace rule to prevent overwriting standard objects.
+**Z objects:** Any custom development must start with `Z` (or `Y`) mandatory SAP namespace rule to prevent overwriting standard objects.
 
 **Transport cycle:** `DEV` → `QAS` → `PRD` — similar to Git: feature → staging → main.
 
@@ -58,7 +58,7 @@ Referência completa de sintaxe para desenvolvimento em ABAP Cloud.
 
 **ABAP Cloud** é a versão moderna e restrita rodando no SAP BTP. Impõe regras de arquitetura limpa e bloqueia sintaxe legada.
 
-**Objetos Z:** Todo desenvolvimento customizado deve começar com `Z` (ou `Y`) — regra obrigatória de namespace SAP.
+**Objetos Z:** Todo desenvolvimento customizado deve começar com `Z` (ou `Y`) regra obrigatória de namespace SAP.
 
 **Ciclo de transporte:** `DEV` → `QAS` → `PRD` — similar ao Git: feature → staging → main.
 
